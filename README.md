@@ -1,7 +1,7 @@
 # ExThreadAeroBilhet
 Exercicios bilheteria e aeroporto
 
-<h1>Exercicio Aeroporto<\h1>
+<h1> Exercicio Aeroporto <h1>
 Um aeroporto tem 2 pistas (norte e sul) e, em cada pista, apenas um
 avião pode fazer a decolagem.
 O procedimento de decolagem tem 4 fases (manobra, taxiar,

@@ -2,7 +2,7 @@
 Exercicios bilheteria e aeroporto
 
 <h1> Exercicio Aeroporto <h1>
-Um aeroporto tem 2 pistas (norte e sul) e, em cada pista, apenas um
+  <p>Um aeroporto tem 2 pistas (norte e sul) e, em cada pista, apenas um
 avião pode fazer a decolagem.
 O procedimento de decolagem tem 4 fases (manobra, taxiar,
 decolagem e afastamento da área).
@@ -13,4 +13,5 @@ afastamento, de 3 a 8 segundos.
 O aeroporto reúne, por ciclo, 12 aeronaves que podem decolar pela
 pista norte ou pela pista sul (decisão aleatória). Mas, apenas 2 aviões
 podem circular pela área de decolagem ao mesmo tempo.
-Fazer uma aplicação em Java que resolva o problema.
+Fazer uma aplicação em Java que resolva o problema.<p>
+
